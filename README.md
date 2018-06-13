@@ -1,6 +1,6 @@
 # scissors
 
-This script is created for taking fast screenshots and saving with ease. It is minimalistic and easy to use. It was created to eliminate (in standard Windows "Snipping tool") such actions as:
+This script is created for taking fast screenshots and saving them with ease. It is minimalistic and easy to use. It was created to eliminate (in standard Windows "Snipping tool") such actions as:
 * Create New
 * Save As
 * Input name
